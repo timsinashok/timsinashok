@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋
+
+Welcome to the pill-choosing game. Blue or Red?
 
 <!--
 **timsinashok/timsinashok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
