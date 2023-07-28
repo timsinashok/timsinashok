@@ -1,18 +1,31 @@
-### Hello 👋
 
-Welcome to the pill-choosing game. Blue or Red?
 
-<!--
-**timsinashok/timsinashok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :man_technologist: &nbsp;About Me :
+
+I am a undergraduate student passionate about automation and machine learning. 
+- 🔭 I'm exploring computer vision and robotic software engineering. 
+- ⚡ In my free time, I read about technology and engineering masterpieces. 
+- 📫 How to reach me:
+<a href="https://www.linkedin.com/in/ashok-timsina-421a6b195/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+
+---
+
+### 🛠 &nbsp;Languages and Tools :
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</p>
+
+---
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timsinashok&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+---
+
+
+
