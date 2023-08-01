@@ -13,7 +13,12 @@ I am an undergraduate student passionate about automation and machine learning.
 <a href="https://www.linkedin.com/in/ashok-timsina-421a6b195/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
 ---
+I am looking for collaborators for :
 
+- <a href="https://github.com/timsinashok/gesture_drum"> Gesture Drum</a> 
+
+
+---
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
