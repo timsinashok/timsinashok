@@ -13,7 +13,14 @@ I am an undergraduate student passionate about automation and machine learning.
 <a href="https://www.linkedin.com/in/ashok-timsina-421a6b195/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
 ---
-I am looking for collaborators for :
+### 💻 &nbsp;Current Works :
+
+I am working on: 
+- <a href="https://github.com/timsinashok/gesture_drum"> Gesture Drum</a>
+- <a href="https://github.com/timsinashok/productive-week"> Productive Week</a>
+- <a href="https://github.com/timsinashok/hidden-plate"> Hidden Plate</a>
+
+I am looking for collaboration on:
 
 - <a href="https://github.com/timsinashok/gesture_drum"> Gesture Drum</a> 
 
