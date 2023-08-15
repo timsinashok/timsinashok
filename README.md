@@ -15,12 +15,12 @@ I am an undergraduate student passionate about automation and machine learning.
 ---
 ### 💻 &nbsp;Current Works :
 
-I am working on: 
+I am working on the following repositories: 
 - <a href="https://github.com/timsinashok/gesture_drum"> Gesture Drum</a>
 - <a href="https://github.com/timsinashok/productive-week"> Productive Week</a>
 - <a href="https://github.com/timsinashok/hidden-plate"> Hidden Plate</a>
 
-I am looking for collaboration on:
+I am looking for collaboration on the following repositories:
 
 - <a href="https://github.com/timsinashok/gesture_drum"> Gesture Drum</a> 
 
