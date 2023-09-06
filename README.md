@@ -22,7 +22,8 @@ I am working on the following repositories:
 
 I am looking for collaboration on the following repositories:
 
-- <a href="https://github.com/timsinashok/gesture_drum"> Gesture Drum</a> 
+- <a href="https://github.com/timsinashok/gesture_drum"> Gesture Drum</a>
+- <a href="https://github.com/timsinashok/hidden-plate"> Hidden Plate</a>
 
 
 ---
