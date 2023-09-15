@@ -47,7 +47,7 @@ I am looking for collaboration on the following repositories:
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timsinashok&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timsinashok&theme=rising-sun&background=000000)](https://git.io/streak-stats)
 
 
 ---
