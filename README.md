@@ -5,7 +5,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am an undergraduate student passionate about automation and machine learning. 
+I am an undergraduate student passionate about machine learning and automation. 
 - 🔭 I'm exploring computer vision and robotic software engineering. 
 - ⚡ In my free time, I read about technology and engineering masterpieces. 
 - 📫 How to reach me:
