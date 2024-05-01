@@ -18,7 +18,7 @@ I am an undergraduate student passionate about machine learning and automation.
 I am working on the following repositories: 
 
 - <a href="https://github.com/timsinashok/specommender"> Specommender</a>
-- <a href="https://github.com/timsinashok/gesture_drum"> Gesture Drum</a>
+- <a href="https://github.com/timsinashok/PhiloSloppy"> Philosloppy </a> with <a href= "https://github.com/manoj-dhakal"> Garcon Philosopher Manoj Dhakal :) </a>
 <!-- - <a href="https://github.com/timsinashok/productive-week"> Productive Week</a>
 - <a href="https://github.com/timsinashok/hidden-plate"> Hidden Plate</a>
 - <a href="https://github.com/timsinashok/searchify"> Searchify</a>
