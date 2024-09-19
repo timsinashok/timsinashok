@@ -19,6 +19,10 @@ I am working on the following repositories:
 
 - <a href="https://github.com/timsinashok/specommender"> Specommender</a>
 - <a href="https://github.com/timsinashok/PhiloSloppy"> Philosloppy </a> with <a href= "https://github.com/manoj-dhakal"> Garcon Philosopher Manoj Dhakal :) </a>
+
+
+You can view my not so cool class projects here  <a href="[https://github.com/timsinashok/PhiloSloppy](https://github.com/orgs/Projects-in-Programming/repositories)"> Stern Class Projects in Programming and Data Science </a> 
+
 <!-- - <a href="https://github.com/timsinashok/productive-week"> Productive Week</a>
 - <a href="https://github.com/timsinashok/hidden-plate"> Hidden Plate</a>
 - <a href="https://github.com/timsinashok/searchify"> Searchify</a>
