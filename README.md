@@ -1,37 +1,28 @@
-
-
-<h1 align="center">Hello, I am Ashok<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
+<h1 align="center">Hello, I am Ashok <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### :man_technologist: &nbsp;About Me :
 
-I am an undergraduate student passionate about machine learning and automation. 
-- 🔭 I'm exploring computer vision and robotic software engineering. 
-- ⚡ In my free time, I read about technology and engineering masterpieces. 
+I am a part-time student and a full-time innovator passionate about applied AI and automation.
+- 🤖 I am building products on the web and Applied AI.
+- 🔭 I'm exploring computer vision and robotic software engineering.
+- ⚡ In my free time, I read about technology and engineering masterpieces.
 - 📫 How to reach me:
-  
+
 <a href="https://www.linkedin.com/in/ashok-timsina-421a6b195/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+
+<a href="https://www.timsinaashok.com.np">View my portfolio</a>
+
+
 
 ---
 ### 💻 &nbsp;Current Works :
 
-I am working on the following repositories: 
+I am working on the following repositories:
 
-- <a href="https://github.com/timsinashok/specommender"> Specommender</a>
-- <a href="https://github.com/timsinashok/PhiloSloppy"> Philosloppy </a> with <a href= "https://github.com/manoj-dhakal"> Garcon Philosopher Manoj Dhakal :) </a>
+- <a href="https://github.com/timsinashok/obscura">Obscura</a>
+- <a href="https://github.com/timsinashok/assignmeant-mvp">Assignmeant</a>
 
-
-You can view my not so cool class projects here  <a href="https://github.com/orgs/Projects-in-Programming/repositories"> Stern Class Projects in Programming and Data Science </a> 
-
-<!-- - <a href="https://github.com/timsinashok/productive-week"> Productive Week</a>
-- <a href="https://github.com/timsinashok/hidden-plate"> Hidden Plate</a>
-- <a href="https://github.com/timsinashok/searchify"> Searchify</a>
-
-I am looking for collaboration on the following repositories:
-
-- <a href="https://github.com/timsinashok/gesture_drum"> Gesture Drum</a>
-- <a href="https://github.com/timsinashok/hidden-plate"> Hidden Plate</a>
--->
+Please reach out to me [here](mailto:ashoktimsina147181@gmail.com) if you would like to collaborate or contribute.
 
 ---
 ### 🛠 &nbsp;Languages and Tools :
@@ -45,18 +36,13 @@ I am looking for collaboration on the following repositories:
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit Learn" alt="Scikit Learn" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1920px-HTML5_logo_and_wordmark.svg.png" title="html" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1920px-HTML5_logo_and_wordmark.svg.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 </p>
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### 🔥 &nbsp;My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timsinashok&theme=rising-sun&background=000000)](https://git.io/streak-stats)
 
-
 ---
-
-
-
