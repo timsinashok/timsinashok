@@ -19,7 +19,7 @@ I am a part-time student and a full-time innovator passionate about applied AI a
 
 I am working on the following repositories:
 
-- <a href="https://github.com/timsinashok/obscura">Obscura</a>
+- <a href="https://github.com/timsinashok/steero">Steero</a>
 - <a href="https://github.com/timsinashok/assignmeant-mvp">Assignmeant</a>
 
 Please reach out to me [here](mailto:ashoktimsina147181@gmail.com) if you would like to collaborate or contribute.
